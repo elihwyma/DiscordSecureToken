@@ -175,3 +175,4 @@ Pods/
 .theos
 .theos/
 *.theos/
+__handlers__/

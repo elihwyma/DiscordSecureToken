@@ -1,9 +1,9 @@
 Package: com.amywhile.discordsecuretoken
 Name: DiscordSecureToken
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Stop Discord from storing token in UserDefaults
-Maintainer: Amy While (support@anamy.gay)
-Author: Amy While (support@anamy.gay)
+Maintainer: Amy While <support@anamy.gay>
+Author: Amy While <support@anamy.gay>
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
